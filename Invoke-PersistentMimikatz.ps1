@@ -4,7 +4,7 @@ function Invoke-PersistentMimikatz {
 
     Creates WMI listener to Invoke-Mimikatz when password change is attempted.
 
-    WMI Event Listener based on PowerSploit's New-ElevatedPersistenceOption
+    WMI Event Listener based on PowerSploit's New-ElevatedPersistenceOption. See research and talks from @mattifestation for more.
     Author: Leo Loobeek
     Required Dependencies: None
     Optional Dependencies: None
